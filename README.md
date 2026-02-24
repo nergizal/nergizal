@@ -2,10 +2,10 @@
 
 **A passionate Software Engineering student from Turkey**
 
-* [cite_start]🔭 I’m currently working on **StudyFlow** (Smart To-Do & Productivity Web App) [cite: 6, 8]
-* [cite_start]🌱 I’m currently learning **AI integration in Mobile Apps** and **Advanced Flutter** [cite: 7, 13]
-* [cite_start]⚡ Skilled in: **Flutter, FastAPI, and Artificial Intelligence** [cite: 7]
-* [cite_start]📫 How to reach me: **nergizalici65@gmail.com** [cite: 2]
+* 🔭 I’m currently working on **StudyFlow** (Smart To-Do & Productivity Web App)
+* 🌱 I’m currently learning **AI integration in Mobile Apps** and **Advanced Flutter**
+* ⚡ Skilled in: **Flutter, FastAPI, and Artificial Intelligence**
+* 📫 How to reach me: **nergizalici65@gmail.com**
 
 ---
 
@@ -30,5 +30,7 @@
 
 ### GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nergizal&show_icons=true&theme=radical" alt="nergizal's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nergizal&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nergizal&theme=radical" alt="GitHub Streak" />
 </p>
