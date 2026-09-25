@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="watermarked_img_9178887778625819185.jpg" width="100%" alt="Developer Portfolio Banner" />
-</div>
 
 <br/>
 
@@ -59,14 +56,13 @@ When I'm not deep into code, you can usually find me competing in hackathons, co
 - 🌐 **Software Developer Intern** @ Iotio *(Sep 2025 — Jan 2026)*
 
 ---
-
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nergizal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=8B5CF6" alt="Nergiz's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nergizal&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADINI_BURAYA_YAZ&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=8B5CF6" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADINI_BURAYA_YAZ&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" height="195" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nergizal&hide_border=true&background=0D1117&stroke=A855F7&ring=8B5CF6&fire=A855F7&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADINI_BURAYA_YAZ&hide_border=true&background=0D1117&stroke=A855F7&ring=8B5CF6&fire=A855F7&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 </div>
